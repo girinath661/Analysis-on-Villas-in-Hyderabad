@@ -22,7 +22,8 @@ This project focuses on extracting real estate data of **villa listings in Hyder
 ---
 
 ## 📂 Repository Structure
-villa-analysis-hyderabad/
+Analysis-on-Villas-in-Hyderabad/
+```
 │
 ├── 📁 data/ # Optional: to store raw/cleaned datasets
 │
@@ -32,8 +33,7 @@ villa-analysis-hyderabad/
 ├── 📄 README.md # Project documentation
 └── 📄 requirements.txt # Python dependencies
 
-
----
+```
 
 ## 📈 Key Features of the Analysis
 
@@ -65,7 +65,7 @@ villa-analysis-hyderabad/
 1. Clone the repository:
    ```bash
    git clone https://github.com/girinath661/Analysis-on-Villas-in-Hyderabad.git
-   cd villa-analysis-hyderabad
+   cd Analysis-on-Villas-in-Hyderabad
 
 2. Create a Virtual Environment named (your_desired_name) in windows poweshell:
    conda create --name your_desired_name python=3.9
