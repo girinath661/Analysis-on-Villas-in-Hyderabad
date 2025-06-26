@@ -72,6 +72,6 @@ villa-analysis-hyderabad/
 
 3. Run notebooks in Jupyter or VSCode:
 
-   Data Extraction.ipynb – for scraping data
+ - Data Extraction.ipynb – for scraping data
 
-   EDA magic brics.ipynb – for analysis
+ - EDA magic brics.ipynb – for analysis
