@@ -64,7 +64,7 @@ villa-analysis-hyderabad/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/villa-analysis-hyderabad.git
+   git clone https://github.com/girinath661/Analysis-on-Villas-in-Hyderabad.git
    cd villa-analysis-hyderabad
 
 2. Create a Virtual Environment named (your_desired_name) in windows poweshell:
