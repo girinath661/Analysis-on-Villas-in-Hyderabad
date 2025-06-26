@@ -63,18 +63,15 @@ villa-analysis-hyderabad/
 ## ▶️ How to Run
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/yourusername/villa-analysis-hyderabad.git
    cd villa-analysis-hyderabad
-Install dependencies:
-
-bash
-Copy
-Edit
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Run notebooks in Jupyter or VSCode:
 
-Data Extraction.ipynb – for scraping data
+   Data Extraction.ipynb – for scraping data
 
-EDA magic brics.ipynb – for analysis
+   EDA magic brics.ipynb – for analysis
