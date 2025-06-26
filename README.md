@@ -22,4 +22,60 @@ This project focuses on extracting real estate data of **villa listings in Hyder
 ---
 
 ## 📂 Repository Structure
+villa-analysis-hyderabad/
+│
+├── 📁 data/ # Optional: to store raw/cleaned datasets
+│
+├── 📓 Data Extraction.ipynb # Web scraping logic using BeautifulSoup
+├── 📓 EDA magic brics.ipynb # Exploratory data analysis of the dataset
+│
+├── 📄 README.md # Project documentation
+└── 📄 requirements.txt # Python dependencies
 
+
+---
+
+## 📈 Key Features of the Analysis
+
+- Extracted villa listings including:
+  - Price
+  - Area (sq. ft.)
+  - Location
+  - Number of bedrooms (BHK)
+  - Amenities (like parking, furnishing)
+- Cleaned and transformed scraped data for analysis
+- Visualized trends:
+  - Price distribution by area
+  - Top localities with most listings
+  - BHK vs Price trends
+  - Correlation between features and price
+
+---
+
+## 🧠 Insights
+
+- Identified popular villa hotspots in Hyderabad.
+- Compared price variation with location and size.
+- Derived statistical summaries and outlier detection.
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/villa-analysis-hyderabad.git
+   cd villa-analysis-hyderabad
+Install dependencies:
+
+bash
+Copy
+Edit
+2. Install dependencies:
+     pip install -r requirements.txt
+
+Run notebooks in Jupyter or VSCode:
+
+Data Extraction.ipynb – for scraping data
+
+EDA magic brics.ipynb – for analysis
