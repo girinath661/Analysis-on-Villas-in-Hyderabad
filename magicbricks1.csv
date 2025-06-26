@@ -1,0 +1,631 @@
+,bhk,area,carpet_area,furnishing,facing,transaction,total_price_in_Cr,owner_name,price_in_rps_per_sqft,price_sqft_2019,diff_of_sqft_price,future_prices
+0,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+1,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+2,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+3,3,Pragathi Nagar,1200,Unfurnished,North - East,Resale,1.75,rohith,5469,5000,469,5938
+4,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+5,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+6,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+7,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+8,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+9,4,Golf Pride Homes,3600,Unfurnished,North,Resale,3.15,Mrs,8750,7000,1750,10500
+10,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+11,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+12,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+13,3,Kardanur,1220,Unfurnished,South - East,Resale,0.85,Sai,9444,5000,4444,13888
+14,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+15,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+16,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+17,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+18,4,Moinabad,1910,Furnished,West,New Property,3.5,sayed,18325,6000,12325,30650
+19,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+20,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,North,Resale,3.2,Dhruv,6400,6000,400,6800
+21,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+22,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+23,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+24,3,Maheshwaram,1627,Semi-Furnished,North - East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+25,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+26,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+27,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+28,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+29,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+30,3,Kompally,1600,Semi-Furnished,North - East,Resale,1.3,Latha,7222,4500,2722,9944
+31,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+32,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+33,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+34,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+35,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+36,3,Tukkuguda,1493,Furnished,North,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+37,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+38,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+39,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+40,2,Boduppal,1200,Unfurnished,South - East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+41,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+42,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+43,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+44,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+45,4,Sainikpuri,3200,Furnished,West,New Property,2.5,Sharma,6944,6500,444,7388
+46,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+47,4,Kompally,3200,Unfurnished,North,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+48,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+49,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+50,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+51,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,North - East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+52,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+53,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+54,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+55,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+56,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+57,4,Gachibowli,3500,Semi-Furnished,North - East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+58,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+59,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+60,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+61,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+62,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+63,3,Pragathi Nagar,1200,Unfurnished,North,Resale,1.75,rohith,5469,5000,469,5938
+64,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+65,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+66,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+67,3,Muthangi,167,Unfurnished,South - East,Resale,1.7,mahesh ,8350,4500,3850,12200
+68,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+69,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+70,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+71,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+72,4,Bachupally,3850,Unfurnished,West,Resale,4.75,Srinivas,12338,5500,6838,19176
+73,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+74,4,Maheshwaram,2300,Furnished,North,Resale,1.55,Amar,6739,4500,2239,8978
+75,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+76,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+77,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+78,4,Moinabad,1910,Furnished,North - East,New Property,3.5,sayed,18325,6000,12325,30650
+79,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+80,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+81,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+82,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+83,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+84,3,Maheshwaram,1627,Semi-Furnished,North - East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+85,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+86,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+87,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+88,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+89,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+90,3,Kompally,1600,Semi-Furnished,North,Resale,1.3,Latha,7222,4500,2722,9944
+91,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+92,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+93,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+94,3,Patancheruvu,167,Unfurnished,South - East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+95,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+96,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+97,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+98,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+99,4,Golf Pride Homes,3600,Unfurnished,West,Resale,3.15,Mrs,8750,7000,1750,10500
+100,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+101,4,Madhura Nagar Nizampet,3200,Furnished,North,Resale,2.5,Hari,7812,5000,2812,10624
+102,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+103,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+104,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+105,4,Sainikpuri,3200,Furnished,North - East,New Property,2.5,Sharma,6944,6500,444,7388
+106,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+107,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+108,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+109,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+110,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+111,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,North - East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+112,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+113,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+114,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+115,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+116,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+117,4,Gachibowli,3500,Semi-Furnished,North,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+118,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+119,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+120,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+121,3,Kompally,2500,Unfurnished,South - East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+122,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+123,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+124,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+125,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+126,3,Tukkuguda,1493,Furnished,West,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+127,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+128,2,Osman Nagar,1050,Unfurnished,North,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+129,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+130,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+131,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+132,4,Bachupally,3850,Unfurnished,North - East,Resale,4.75,Srinivas,12338,5500,6838,19176
+133,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+134,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+135,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+136,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+137,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+138,4,Moinabad,1910,Furnished,North - East,New Property,3.5,sayed,18325,6000,12325,30650
+139,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+140,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+141,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+142,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+143,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+144,3,Maheshwaram,1627,Semi-Furnished,North,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+145,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+146,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+147,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+148,3,Warangal Highway,2500,Unfurnished,South - East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+149,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+150,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+151,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+152,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+153,3,Pragathi Nagar,1200,Unfurnished,West,Resale,1.75,rohith,5469,5000,469,5938
+154,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+155,5,Bandlaguda Jagir,4545,Unfurnished,North,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+156,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+157,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+158,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+159,4,Golf Pride Homes,3600,Unfurnished,North - East,Resale,3.15,Mrs,8750,7000,1750,10500
+160,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+161,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+162,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+163,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+164,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+165,4,Sainikpuri,3200,Furnished,North - East,New Property,2.5,Sharma,6944,6500,444,7388
+166,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+167,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+168,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+169,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+170,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+171,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,North,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+172,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+173,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+174,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+175,3,Parvathapur,1260,Furnished,South - East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+176,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+177,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+178,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+179,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+180,3,Kompally,1600,Semi-Furnished,West,Resale,1.3,Latha,7222,4500,2722,9944
+181,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+182,3,Srisailam Highway,2418,Unfurnished,North,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+183,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+184,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+185,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+186,3,Tukkuguda,1493,Furnished,North - East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+187,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+188,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+189,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+190,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+191,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+192,4,Bachupally,3850,Unfurnished,North - East,Resale,4.75,Srinivas,12338,5500,6838,19176
+193,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+194,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+195,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+196,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+197,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+198,4,Moinabad,1910,Furnished,North,New Property,3.5,sayed,18325,6000,12325,30650
+199,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+200,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+201,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+202,3,Velmala,1783,Unfurnished,South - East,Resale,1.98,Ravindra,11105,4500,6605,17710
+203,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+204,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+205,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+206,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+207,4,Gachibowli,3500,Semi-Furnished,West,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+208,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+209,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,North,Resale,3.65,Bala,10429,8000,2429,12858
+210,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+211,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+212,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+213,3,Pragathi Nagar,1200,Unfurnished,North - East,Resale,1.75,rohith,5469,5000,469,5938
+214,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+215,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+216,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+217,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+218,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+219,4,Golf Pride Homes,3600,Unfurnished,North - East,Resale,3.15,Mrs,8750,7000,1750,10500
+220,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+221,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+222,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+223,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+224,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+225,4,Sainikpuri,3200,Furnished,North,New Property,2.5,Sharma,6944,6500,444,7388
+226,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+227,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+228,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+229,3,Patancheruvu,1850,Unfurnished,South - East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+230,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+231,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+232,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+233,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+234,3,Maheshwaram,1627,Semi-Furnished,West,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+235,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+236,3,Bowrampet,2103,Unfurnished,North,Resale,1.8,Vijay,10929,8000,2929,13858
+237,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+238,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+239,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+240,3,Kompally,1600,Semi-Furnished,North - East,Resale,1.3,Latha,7222,4500,2722,9944
+241,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+242,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+243,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+244,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+245,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+246,3,Tukkuguda,1493,Furnished,North - East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+247,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+248,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+249,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+250,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+251,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+252,4,Bachupally,3850,Unfurnished,North,Resale,4.75,Srinivas,12338,5500,6838,19176
+253,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+254,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+255,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+256,4,Dundigal,2000,Semi-Furnished,South - East,Resale,1.7,lakshmi,8500,4500,4000,12500
+257,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+258,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+259,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+260,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+261,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,West,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+262,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+263,3,Lingampally Serilingampalle,6000,Semi-Furnished,North,Resale,4.5,Kalavathi,6923,6000,923,7846
+264,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+265,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+266,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+267,4,Gachibowli,3500,Semi-Furnished,North - East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+268,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+269,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+270,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+271,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+272,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+273,3,Pragathi Nagar,1200,Unfurnished,North - East,Resale,1.75,rohith,5469,5000,469,5938
+274,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+275,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+276,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+277,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+278,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+279,4,Golf Pride Homes,3600,Unfurnished,North,Resale,3.15,Mrs,8750,7000,1750,10500
+280,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+281,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+282,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+283,3,Kardanur,1220,Unfurnished,South - East,Resale,0.85,Sai,9444,5000,4444,13888
+284,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+285,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+286,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+287,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+288,4,Moinabad,1910,Furnished,West,New Property,3.5,sayed,18325,6000,12325,30650
+289,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+290,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,North,Resale,3.2,Dhruv,6400,6000,400,6800
+291,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+292,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+293,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+294,3,Maheshwaram,1627,Semi-Furnished,North - East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+295,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+296,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+297,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+298,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+299,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+300,3,Kompally,1600,Semi-Furnished,North - East,Resale,1.3,Latha,7222,4500,2722,9944
+301,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+302,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+303,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+304,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+305,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+306,3,Tukkuguda,1493,Furnished,North,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+307,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+308,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+309,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+310,2,Boduppal,1200,Unfurnished,South - East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+311,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+312,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+313,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+314,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+315,4,Sainikpuri,3200,Furnished,West,New Property,2.5,Sharma,6944,6500,444,7388
+316,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+317,4,Kompally,3200,Unfurnished,North,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+318,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+319,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+320,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+321,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,North - East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+322,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+323,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+324,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+325,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+326,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+327,4,Gachibowli,3500,Semi-Furnished,North - East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+328,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+329,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+330,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+331,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+332,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+333,3,Pragathi Nagar,1200,Unfurnished,North,Resale,1.75,rohith,5469,5000,469,5938
+334,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+335,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+336,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+337,3,Muthangi,167,Unfurnished,South - East,Resale,1.7,mahesh ,8350,4500,3850,12200
+338,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+339,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+340,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+341,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+342,4,Bachupally,3850,Unfurnished,West,Resale,4.75,Srinivas,12338,5500,6838,19176
+343,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+344,4,Maheshwaram,2300,Furnished,North,Resale,1.55,Amar,6739,4500,2239,8978
+345,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+346,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+347,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+348,4,Moinabad,1910,Furnished,North - East,New Property,3.5,sayed,18325,6000,12325,30650
+349,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+350,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+351,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+352,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+353,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+354,3,Maheshwaram,1627,Semi-Furnished,North - East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+355,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+356,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+357,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+358,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+359,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+360,3,Kompally,1600,Semi-Furnished,North,Resale,1.3,Latha,7222,4500,2722,9944
+361,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+362,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+363,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+364,3,Patancheruvu,167,Unfurnished,South - East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+365,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+366,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+367,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+368,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+369,4,Golf Pride Homes,3600,Unfurnished,West,Resale,3.15,Mrs,8750,7000,1750,10500
+370,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+371,4,Madhura Nagar Nizampet,3200,Furnished,North,Resale,2.5,Hari,7812,5000,2812,10624
+372,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+373,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+374,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+375,4,Sainikpuri,3200,Furnished,North - East,New Property,2.5,Sharma,6944,6500,444,7388
+376,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+377,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+378,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+379,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+380,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+381,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,North - East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+382,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+383,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+384,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+385,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+386,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+387,4,Gachibowli,3500,Semi-Furnished,North,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+388,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+389,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+390,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+391,3,Kompally,2500,Unfurnished,South - East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+392,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+393,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+394,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+395,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+396,3,Tukkuguda,1493,Furnished,West,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+397,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+398,2,Osman Nagar,1050,Unfurnished,North,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+399,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+400,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+401,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+402,4,Bachupally,3850,Unfurnished,North - East,Resale,4.75,Srinivas,12338,5500,6838,19176
+403,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+404,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+405,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+406,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+407,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+408,4,Moinabad,1910,Furnished,North - East,New Property,3.5,sayed,18325,6000,12325,30650
+409,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+410,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+411,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+412,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+413,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+414,3,Maheshwaram,1627,Semi-Furnished,North,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+415,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+416,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+417,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+418,3,Warangal Highway,2500,Unfurnished,South - East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+419,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+420,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+421,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+422,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+423,3,Pragathi Nagar,1200,Unfurnished,West,Resale,1.75,rohith,5469,5000,469,5938
+424,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+425,5,Bandlaguda Jagir,4545,Unfurnished,North,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+426,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+427,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+428,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+429,4,Golf Pride Homes,3600,Unfurnished,North - East,Resale,3.15,Mrs,8750,7000,1750,10500
+430,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+431,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+432,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+433,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+434,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+435,4,Sainikpuri,3200,Furnished,North - East,New Property,2.5,Sharma,6944,6500,444,7388
+436,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+437,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+438,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+439,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+440,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+441,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,North,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+442,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+443,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+444,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+445,3,Parvathapur,1260,Furnished,South - East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+446,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+447,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+448,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+449,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+450,3,Kompally,1600,Semi-Furnished,West,Resale,1.3,Latha,7222,4500,2722,9944
+451,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+452,3,Srisailam Highway,2418,Unfurnished,North,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+453,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+454,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+455,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+456,3,Tukkuguda,1493,Furnished,North - East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+457,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+458,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+459,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+460,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+461,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+462,4,Bachupally,3850,Unfurnished,North - East,Resale,4.75,Srinivas,12338,5500,6838,19176
+463,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+464,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+465,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+466,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+467,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+468,4,Moinabad,1910,Furnished,North,New Property,3.5,sayed,18325,6000,12325,30650
+469,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+470,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+471,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+472,3,Velmala,1783,Unfurnished,South - East,Resale,1.98,Ravindra,11105,4500,6605,17710
+473,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+474,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+475,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+476,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+477,4,Gachibowli,3500,Semi-Furnished,West,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+478,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+479,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,North,Resale,3.65,Bala,10429,8000,2429,12858
+480,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+481,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+482,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+483,3,Pragathi Nagar,1200,Unfurnished,North - East,Resale,1.75,rohith,5469,5000,469,5938
+484,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+485,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+486,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+487,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+488,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+489,4,Golf Pride Homes,3600,Unfurnished,North - East,Resale,3.15,Mrs,8750,7000,1750,10500
+490,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+491,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+492,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+493,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+494,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+495,4,Sainikpuri,3200,Furnished,North,New Property,2.5,Sharma,6944,6500,444,7388
+496,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+497,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+498,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+499,3,Patancheruvu,1850,Unfurnished,South - East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+500,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+501,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+502,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+503,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+504,3,Maheshwaram,1627,Semi-Furnished,West,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+505,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+506,3,Bowrampet,2103,Unfurnished,North,Resale,1.8,Vijay,10929,8000,2929,13858
+507,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+508,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+509,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+510,3,Kompally,1600,Semi-Furnished,North - East,Resale,1.3,Latha,7222,4500,2722,9944
+511,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+512,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+513,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+514,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+515,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+516,3,Tukkuguda,1493,Furnished,North - East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+517,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+518,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+519,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+520,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+521,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+522,4,Bachupally,3850,Unfurnished,North,Resale,4.75,Srinivas,12338,5500,6838,19176
+523,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+524,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+525,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+526,4,Dundigal,2000,Semi-Furnished,South - East,Resale,1.7,lakshmi,8500,4500,4000,12500
+527,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+528,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+529,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+530,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+531,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,West,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+532,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+533,3,Lingampally Serilingampalle,6000,Semi-Furnished,North,Resale,4.5,Kalavathi,6923,6000,923,7846
+534,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+535,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+536,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+537,4,Gachibowli,3500,Semi-Furnished,North - East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+538,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+539,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+540,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+541,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+542,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+543,3,Pragathi Nagar,1200,Unfurnished,North - East,Resale,1.75,rohith,5469,5000,469,5938
+544,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+545,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+546,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+547,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+548,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+549,4,Golf Pride Homes,3600,Unfurnished,North,Resale,3.15,Mrs,8750,7000,1750,10500
+550,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+551,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+552,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+553,3,Kardanur,1220,Unfurnished,South - East,Resale,0.85,Sai,9444,5000,4444,13888
+554,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+555,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+556,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+557,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+558,4,Moinabad,1910,Furnished,West,New Property,3.5,sayed,18325,6000,12325,30650
+559,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+560,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,North,Resale,3.2,Dhruv,6400,6000,400,6800
+561,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+562,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+563,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+564,3,Maheshwaram,1627,Semi-Furnished,North - East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+565,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+566,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+567,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+568,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+569,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+570,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+571,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+572,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+573,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+574,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+575,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+576,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+577,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+578,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+579,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+580,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+581,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+582,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+583,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+584,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+585,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+586,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+587,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+588,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+589,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+590,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+591,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+592,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+593,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+594,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+595,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+596,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+597,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+598,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+599,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
+600,3,Kompally,1600,Semi-Furnished,East,Resale,1.3,Latha,7222,4500,2722,9944
+601,3,Kompally,2500,Unfurnished,East,Resale,6.0,Vinay Alluri,23077,4500,18577,41654
+602,3,Srisailam Highway,2418,Unfurnished,East,New Property,1.98,Rammohan reddy,8189,4500,3689,11878
+603,3,Pragathi Nagar,1200,Unfurnished,East,Resale,1.75,rohith,5469,5000,469,5938
+604,3,Patancheruvu,167,Unfurnished,East,Resale,1.7,veda samhitha,11311,4500,6811,18122
+605,5,Bandlaguda Jagir,4545,Unfurnished,East,New Property,7.5,Pradyumna ,15957,5500,10457,26414
+606,3,Tukkuguda,1493,Furnished,East,Resale,1.6,Dpapaiah,8466,5500,2966,11432
+607,3,Muthangi,167,Unfurnished,East,Resale,1.7,mahesh ,8350,4500,3850,12200
+608,2,Osman Nagar,1050,Unfurnished,East,Resale,1.9,Chandra Rekha,18095,6000,12095,30190
+609,4,Golf Pride Homes,3600,Unfurnished,East,Resale,3.15,Mrs,8750,7000,1750,10500
+610,2,Boduppal,1200,Unfurnished,East,Resale,1.1,Nikhith chinna,9167,4500,4667,13834
+611,4,Madhura Nagar Nizampet,3200,Furnished,East,Resale,2.5,Hari,7812,5000,2812,10624
+612,4,Bachupally,3850,Unfurnished,East,Resale,4.75,Srinivas,12338,5500,6838,19176
+613,3,Kardanur,1220,Unfurnished,East,Resale,0.85,Sai,9444,5000,4444,13888
+614,4,Maheshwaram,2300,Furnished,East,Resale,1.55,Amar,6739,4500,2239,8978
+615,4,Sainikpuri,3200,Furnished,East,New Property,2.5,Sharma,6944,6500,444,7388
+616,4,Dundigal,2000,Semi-Furnished,East,Resale,1.7,lakshmi,8500,4500,4000,12500
+617,4,Kompally,3200,Unfurnished,East,Resale,7.0,Ashok Naredi,21875,4500,17375,39250
+618,4,Moinabad,1910,Furnished,East,New Property,3.5,sayed,18325,6000,12325,30650
+619,3,Patancheruvu,1850,Unfurnished,East,Resale,1.65,Vishnu Vardhan Vanga,12222,4500,7722,19944
+620,6,Vidyanagar New Nallakunta,5000,Semi-Furnished,East,Resale,3.2,Dhruv,6400,6000,400,6800
+621,3,Beeramguda Ramachandrapuram,1350,Semi-Furnished,East,New Property,2.1,Sudhakar Pammi,11667,6000,5667,17334
+622,3,Velmala,1783,Unfurnished,East,Resale,1.98,Ravindra,11105,4500,6605,17710
+623,3,Lingampally Serilingampalle,6000,Semi-Furnished,East,Resale,4.5,Kalavathi,6923,6000,923,7846
+624,3,Maheshwaram,1627,Semi-Furnished,East,Resale,1.55,Raj Kammili,9527,4500,5027,14554
+625,3,Parvathapur,1260,Furnished,East,Resale,1.2,Teja Kuncham,9524,9000,524,10048
+626,3,Bowrampet,2103,Unfurnished,East,Resale,1.8,Vijay,10929,8000,2929,13858
+627,4,Gachibowli,3500,Semi-Furnished,East,Resale,8.3,Vidya Sagar Inaganti,23056,7500,15556,38612
+628,3,Warangal Highway,2500,Unfurnished,East,Resale,1.8,Ramendra Kumar,6426,4500,1926,8352
+629,4,Mythri Nagar Madeenaguda,3350,Semi-Furnished,East,Resale,3.65,Bala,10429,8000,2429,12858
