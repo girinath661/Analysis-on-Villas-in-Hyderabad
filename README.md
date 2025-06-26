@@ -66,11 +66,17 @@ villa-analysis-hyderabad/
    ```bash
    git clone https://github.com/yourusername/villa-analysis-hyderabad.git
    cd villa-analysis-hyderabad
-2. Install dependencies:
+
+2. Create a Virtual Environment named (your_desired_name) in windows poweshell:
+   conda create --name your_desired_name python=3.9
+3. actiavte the virtual Environment:
+   conda activate your_desired_name
+   
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
-3. Run notebooks in Jupyter or VSCode:
+5. Run notebooks in Jupyter or VSCode:
 
  - Data Extraction.ipynb – for scraping data
 
